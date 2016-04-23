@@ -7,6 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Gifu/Gifu.h>
+
+@class Router;
+@class AnimatableImageView;
 
 @interface ViewController : UIViewController
 
